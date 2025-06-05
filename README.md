@@ -1,6 +1,6 @@
 <!-- ## Hello World! Call me Fikri Remember that👋 -->
 ![Rahman Fikri](img/github-header-image.png)
-## **<center>A developer from Indonesia learning every day.</center>**
+#**<center>A developer from Indonesia learning every day.</center>**
 
 
 **Skills**
